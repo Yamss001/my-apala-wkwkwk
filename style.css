@@ -1,0 +1,12 @@
+.apayah {color: black; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+  background-color:white;
+}
+h1, p {color: black; text-align:center;}
+body {background-color:#FF12;}
+.kontol, .tuwa {display:block;
+  margin-right: auto;
+  margin-left: auto;
+  }
